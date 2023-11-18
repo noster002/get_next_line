@@ -1,13 +1,9 @@
 # get_next_line
 42 School - Level01
 
+This function reads from a file descriptor and sets the pointer to the next line on each return.
+
 ## Usage
-
-### Requirements
-The function is written in C language and thus needs the gcc compiler and some standard C libraries to run.
-
-Instructions
-1. Using it in your code
 
 To use the function in your code, simply include its header:
 
